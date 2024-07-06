@@ -23,20 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresnetação de meu avatar o hudmetal69, hehe!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu entrei no site me inscrevi, depois dentos dos créditos que eu tinha procurei um padrão standard que mais se parecia comigo para poder fazer a apresentação, em seguida, configurei os itens como quis!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado esta aprsentado bem aqui nesse repositório em um vídeo bem curto de 2 segundos rsrs
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi diverido, criar um vídeo basicamente só com comandos, sem ter que usar uma câmera ou algo assim foi algo bem diferente pra mim, rsrs.
 
 ### Exemplos e Insigths
 
