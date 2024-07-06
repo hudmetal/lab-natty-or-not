@@ -23,13 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Apresnetação de meu avatar o hudmetal69, hehe!
+Apresentação de meu avatar o hudmetal69, hehe!
 
 ## 🤖 Tecnologias Utilizadas
 D-ID
 
 ## 🧐 Processo de Criação
-Eu entrei no site me inscrevi, depois dentos dos créditos que eu tinha procurei um padrão standard que mais se parecia comigo para poder fazer a apresentação, em seguida, configurei os itens como quis!
+Eu entrei no site e me inscrevi, depois dentro dos créditos que eu tinha, procurei um padrão standard que mais se parecia comigo para poder fazer a apresentação, em seguida, configurei os itens como quis!
 
 ## 🚀 Resultados
 O resultado esta aprsentado bem aqui nesse repositório em um vídeo bem curto de 2 segundos rsrs
